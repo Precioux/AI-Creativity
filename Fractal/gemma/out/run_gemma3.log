@@ -1,0 +1,5 @@
+2025-10-10 17:25:24 | INFO | Starting run | OLLAMA_BASE=http://127.0.0.1:11434 | GEMMA_TAG=gemma3
+2025-10-10 17:25:24 | INFO | Discovered 300 PNG images in 0.003s
+2025-10-10 17:25:24 | INFO | Checking Gemma image support...
+2025-10-10 17:25:27 | INFO | Gemma vision support: NO
+2025-10-10 17:25:27 | ERROR | Gemma tag does not support images. Aborting. Use a vision-enabled tag.
