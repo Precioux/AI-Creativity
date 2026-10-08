@@ -1,0 +1,17 @@
+
+Found 161 images across FD135 + FD17
+Model  : qwen/qwen3.5-9b
+Temps  : [0.0, 1.0, 1.5]  (['deterministic', 'default', 'high-creative'])
+Output : /Users/precioux/Desktop/Projects/Creativity/code/Server/Fractals/results/Qwen3.5-9B
+
+============================================================
+  PHASE 1 — DAT BASELINE
+  Model        : qwen/qwen3.5-9b
+  Temperatures : [0.0, 1.0, 1.5]
+  Runs/temp    : 10
+  Total calls  : 30  |  Done: 25
+  Output       : /Users/precioux/Desktop/Projects/Creativity/code/Server/Fractals/results/Qwen3.5-9B/dat_baseline_results.jsonl
+============================================================
+
+    Null content (attempt 1), retrying once...
+  [Baseline | temp=1.5 | run 02]  ['(parse error)']  (363404 ms)

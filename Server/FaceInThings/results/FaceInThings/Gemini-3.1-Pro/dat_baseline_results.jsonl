@@ -1,0 +1,1 @@
+{"temperature": 1.0, "temp_label": "default", "run_id": 1, "dat_raw": "{\"words\":[\"appetite\",\"galaxy\",\"melody\",\"oxygen\",\"reptile\",\"democracy\",\"skyscraper\",\"blizzard\",\"triangle\",\"afternoon\"]}", "dat_parsed": {"words": ["appetite", "galaxy", "melody", "oxygen", "reptile", "democracy", "skyscraper", "blizzard", "triangle", "afternoon"]}, "ms": 21338}
